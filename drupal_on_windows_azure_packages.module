@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal on Windows Azure packages feature.
+ */
+
+include_once 'drupal_on_windows_azure_packages.features.inc';
